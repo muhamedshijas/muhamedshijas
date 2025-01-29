@@ -7,7 +7,11 @@ I'm **Muhamed Shijas**, a passionate **Full-Stack Developer** from India 🇮�
 📫 How to reach me: **shijushijas157@gmail.com**  
 
 ---
+### 🏆 GitHub Profile Trophy  
 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=muhamedshijas&theme=onedark&margin-w=15&no-bg=true)  
+
+---
 ### 🚀 Connect with me:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-shijas-m-67b6bb259/)  
@@ -31,15 +35,11 @@ I'm **Muhamed Shijas**, a passionate **Full-Stack Developer** from India 🇮�
 
 ---
 
-### 🏆 GitHub Profile Trophy  
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=muhamedshijas&theme=onedark&margin-w=15&no-bg=true)  
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Muhamed Shijas's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamedshijas&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedshijas&layout=compact&theme=radical)  
 
 ---
