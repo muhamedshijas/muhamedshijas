@@ -9,11 +9,17 @@ I'm **Muhamed Shijas**, a passionate **Full-Stack Developer** from India 🇮�
 ---
 
 ### 🚀 Connect with me:  
-<p align="left"> 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-shijas-m-67b6bb259/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamedshijas)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shijushijas157@gmail.com)  
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhamed-shijas-m-67b6bb259/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/muhamedshijas">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:shijushijas157@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 ---
 
 ### ⚒️ Languages & Tools:  
